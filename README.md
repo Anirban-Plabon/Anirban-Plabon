@@ -2,7 +2,7 @@
 
 
 <h2>I'm Anirban Barai</h2>
-<h4>My undergraduate studies in Computer Science and Engineering (CSE) are now being completed at RUET. </h4>
+<h4>My undergraduate studies in Computer Science and Engineering (CSE) is now being completed at RUET. </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban-plabon&label=Profile%20views&color=0e75b6&style=flat" alt="anirban-plabon" /> </p>
 

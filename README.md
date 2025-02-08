@@ -1,18 +1,18 @@
 ## Hey! 👋
 
 
-<h2>I'm Anirban Barai</h2>
-<h4>My undergraduate studies in Computer Science and Engineering (CSE) is now being completed at RUET. </h4>
+## I'm Anirban Barai</h2>
+## I have completed my B.Sc. in Computer Science and Engineering from Rajshahi University of Engineering & Technology
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban-plabon&label=Profile%20views&color=0e75b6&style=flat" alt="anirban-plabon" /> </p>
 
-- 🔭 I’m currently working on Flutter **RUET Routine**
+- 🔭 I’m currently working on my research project **Multimodal Medical Image Segmentation**
 
-- 🌱 I’m currently learning **Machine Learning, Flutter**
+- 🌱 I’m currently learning **Flutter, Machine Learning, Image Segmentation, LLM, AI Agents, AI Reasoning**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, Machine Learning, Deep Learning, Medical Image Analysis**
 
-- 📫 How to reach me **anirbanplabon13@gmail.com**
+- 📫 How to reach me **anirbanplabon@gmail.com**  or **anirbanplabon13@gmail.com**
 
 
 <p align="left">

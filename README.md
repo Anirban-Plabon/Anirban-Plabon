@@ -2,13 +2,13 @@
 
 
 ## I'm Anirban Barai</h2>
-## I have completed my B.Sc. in Computer Science and Engineering from Rajshahi University of Engineering & Technology
+### I have completed my B.Sc. in Computer Science and Engineering from Rajshahi University of Engineering & Technology. I am enrolled in a Master's program in Computer Science and Engineering at RUET.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban-plabon&label=Profile%20views&color=0e75b6&style=flat" alt="anirban-plabon" /> </p>
 
 - 🔭 I’m currently working on my research project **Multimodal Medical Image Segmentation**
 
-- 🌱 I’m currently learning **Flutter, Machine Learning, Image Segmentation, LLM, AI Agents, AI Reasoning**
+- 🌱 I have a profound knowledge of **Flutter, Machine Learning, Image Segmentation, LLM, AI Agents, and AI Reasoning**
 
 - 💬 Ask me about **Flutter, Machine Learning, Deep Learning, Medical Image Analysis**
 
